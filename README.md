@@ -21,6 +21,7 @@ This skill is designed to work with MCP-compatible AI assistants:
 - **Dual Input Support**: Review via URL or design screenshot
 - **Two Review Modes**: Quick review (5 min) or Deep review (30 min)
 - **Seven-Dimension Framework**: Strategic goals, UX, functionality, metrics, performance, competition, operations
+- **Specialized Deep Reviews**: Color (6-layer model), typography, interaction, accessibility (6-layer pyramid), security compliance (7-layer model), performance optimization (7-layer model)
 - **Structured Output**: Professional review reports with prioritized recommendations
 - **MCP Integration**: Enhanced analysis with compatible MCP servers
 
@@ -154,6 +155,12 @@ Every review includes:
 - `quick-review.md` - 5-minute quick review process
 - `deep-review.md` - 30-minute deep review process
 - `templates.md` - Review report templates
+- `color-review.md` - Professional color review framework (6-layer model)
+- `typography-review.md` - Typography and font review guide
+- `interaction-review.md` - Interaction and animation review standards
+- `accessibility-review.md` - Accessibility review checklist (6-layer pyramid)
+- `security-review.md` - Security and compliance review guide (7-layer model)
+- `performance-review.md` - Performance optimization review standards (7-layer model)
 
 ## MCP Server Integration (Optional)
 

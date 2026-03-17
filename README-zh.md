@@ -21,6 +21,7 @@
 - **双输入支持**：支持网址评审和设计截图评审
 - **两种评审模式**：快速评审（5分钟）或深度评审（30分钟）
 - **七维度框架**：战略目标、用户体验、功能内容、数据度量、技术性能、市场竞品、迭代运营
+- **专项深度审查**：颜色审查（六层模型）、排版审查、交互审查、无障碍审查（六层金字塔）、安全合规审查（七层模型）、性能优化审查（七层模型）
 - **结构化输出**：专业评审报告，附带优先级排序建议
 - **MCP 集成**：兼容 MCP 服务器增强分析能力
 
@@ -154,6 +155,12 @@ cp -r pm-review-skill/* ~/.claude/skills/pm-review-skill/
 - `quick-review.md` - 5分钟快速评审流程
 - `deep-review.md` - 30分钟深度评审流程
 - `templates.md` - 评审报告模板
+- `color-review.md` - 专业颜色审查框架（六层审查模型）
+- `typography-review.md` - 排版与字体审查指南
+- `interaction-review.md` - 交互与动画审查标准
+- `accessibility-review.md` - 无障碍访问审查清单（六层无障碍金字塔）
+- `security-review.md` - 安全性与合规审查指南（七层安全模型）
+- `performance-review.md` - 性能与优化审查标准（七层性能模型）
 
 ## MCP 服务器集成（可选）
 
